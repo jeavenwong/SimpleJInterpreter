@@ -1,2 +1,2 @@
-# -SimpleJInterpreter
+# SimpleJInterpreter
 此项目是一个简单的四则运算解释器，用来练习编译原理。词法分析部分使用手写DFA解析，语法分析部分使用LL(1)文法进行递归下降法分析，再将AST转化为逆波兰序列，最后写了一个简单的Stack-Based VM来解释执行。
