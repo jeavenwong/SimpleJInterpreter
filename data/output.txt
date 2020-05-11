@@ -1,0 +1,8 @@
+Token: { typeInt= 5,  code='(' }
+Token: { typeInt= 0,  code='1.0' }
+Token: { typeInt= 1,  code='+' }
+Token: { typeInt= 0,  code='2.0' }
+Token: { typeInt= 6,  code=')' }
+Token: { typeInt= 3,  code='*' }
+Token: { typeInt= 0,  code='3.0' }
+Token: { typeInt= 7,  code=';' }
